@@ -1,0 +1,10 @@
+CMake Error at D:/Documents/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/build.cmake:610 (message):
+  ERROR: Permission denied.  Cannot create directory:
+  C:\Users\jin\AppData\Local\Espressif\ComponentManager\Cache\service_d92d8f1e\espressif__esp_lcd_ili9341_2.1.0_840387ee
+
+
+Call Stack (most recent call first):
+  D:/Documents/Espressif/frameworks/esp-idf-v5.4.1/tools/cmake/project.cmake:717 (idf_build_process)
+  CMakeLists.txt:4 (project)
+
+

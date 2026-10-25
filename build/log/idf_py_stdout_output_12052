@@ -1,0 +1,10 @@
+-- ccache will be used for faster recompilation
+-- git rev-parse returned 'fatal: not a git repository (or any of the parent directories): .git'
+-- Could not use 'git describe' to determine PROJECT_VER.
+-- Building ESP-IDF components for target esp32s3
+NOTICE: Manifest files have changed, solving dependencies.
+........NOTICE: Updating lock file at D:\Project_file\ESP_project\esp32s3_project\LVGL_ai_new\dependencies.lock
+NOTICE: Processing 5 dependencies:
+NOTICE: [1/5] espressif/cmake_utilities (0.5.3)
+NOTICE: [2/5] espressif/esp_jpeg (1.0.5~2)
+-- Configuring incomplete, errors occurred!

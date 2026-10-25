@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/CMakeFiles/bootloader
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/CMakeFiles/bootloader.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/CMakeFiles/bootloader-complete.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Project_file/ESP_project/esp32s3_project/LVGL_ai_new/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
